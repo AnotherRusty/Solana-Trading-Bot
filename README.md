@@ -1,6 +1,5 @@
 # Telegram Solana Trading Bot
-![dogsolbot](https://github.com/user-attachments/assets/a6975ba7-0c30-4d5b-a0ec-1261fa088552)
-
+Solana Trading Bot running on Telegram
 
 ## Bot Link
 [Dog_Solana_Bot](https://t.me/Dog_Solana_Bot)
