@@ -1,9 +1,6 @@
 # Telegram Solana Trading Bot
 Solana Trading Bot running on Telegram
 
-## Bot Link
-[Dog_Solana_Bot](https://t.me/Dog_Solana_Bot)
-
 ## Overview
 The Solana Trading Bot is an advanced and automated cryptocurrency trading tool designed for Solana-based decentralized exchanges (DEXs). It offers seamless token management and trading capabilities with cutting-edge features such as sniping, limit orders, portfolio tracking, and more. This bot is optimized for speed, accuracy, and scalability.
 
